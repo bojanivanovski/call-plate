@@ -1,0 +1,6 @@
+{
+  "appTitle": "call_plate",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
